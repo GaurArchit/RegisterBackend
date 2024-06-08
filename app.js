@@ -4,7 +4,8 @@ import mongoose from "mongoose";
 const app = express();
 app.use(cors());
 app.use(express.json());
-//////
+//////this is mongoos
+
 const mongoURI =
   "mongodb+srv://architgaur123:VlPSgHSc6QUaypbp@user.zg97xzj.mongodb.net/";
 mongoose
